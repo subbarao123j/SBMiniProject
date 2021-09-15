@@ -7,5 +7,6 @@ import spring.psi.subba.model.Student;
 public interface StudentRepository  extends JpaRepository<Student, Integer>
 
 {
+	
 
 }
